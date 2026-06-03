@@ -84,7 +84,7 @@ const RECEITAS_INICIAIS = [
  "5. Misture até formar uma massa homogênea.",
  "6. Coloque na forma untada e leve ao forno médio por cerca de 30 minutos."
     ]}, 
-    videoUrl: 'https://raw.githubusercontent.com/SodaCocacola/SIM2/main/videos/fuba.mp4?raw=true' 
+    videoUrl: 'https://raw.githubusercontent.com/SodaCocacola/SIM2/main/videos/brownie.mp4?raw=true' 
   },
   { 
     id: "3", 
