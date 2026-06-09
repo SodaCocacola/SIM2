@@ -8,6 +8,7 @@ const IMAGENS_LOCAIS = {
   'torta_de_limao.jpg': require('./img/torta_de_limao.jpg'),
   'bolo_fuba.jpg': require('./img/bolo_fuba.jpg'),
   'coxinha.jpg': require('./img/coxinha.jpg')
+    'pudim.jpg': require('./img/pudim.jpg')
 };
 
 const RECEITAS_INICIAIS = [
